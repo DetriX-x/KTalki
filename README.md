@@ -21,9 +21,7 @@ A private messenger with a focus on security and minimalism, developed in C++/Qt
 
 - Language: **C++23**
 - Framework: **Qt 6**
-- Databases:
-- PostgreSQL (main storage)
-- Redis (caching and sessions)
+- Databases: **PostgreSQL** (main storage) **Redis** (caching and sessions)
 - Logging: **spdlog**
 - Networking: **TCP with TLS with ECH support**
 
