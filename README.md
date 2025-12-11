@@ -14,7 +14,6 @@ A private messenger with a focus on security and minimalism, developed in C++/Qt
 - **Offline Registration**: Man-in-the-middle attack prevention
 - **TLS** with ECH (Encrypted Client Hello) support for metadata protection. - Modern cryptographic algorithms
 - Local storage of encryption keys
-- Protection against MITM attacks
 
 ## 📦 Tech Stack
 
